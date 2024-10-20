@@ -1,6 +1,6 @@
 <a href="https://github.com/henribarboza">
   <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=henribarboza&theme=github_dark" /> -->
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henribarboza&layout=compact&theme=github_dark&langs_count=8&card_width=320" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henribarboza&layout=compact&theme=github_dark&langs_count=8&card_width=600" />
 </a>
 
 ##
